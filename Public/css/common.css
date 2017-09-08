@@ -2,10 +2,12 @@
 
 html{
 	font-size: 16px;
+	height: 100%;
 }
 body{
 	width: 100%;
 	background-color: #FFFFFF;
+	height: 100%;
 }
 
 /*去除所有元素的内外边距*/
@@ -141,3 +143,32 @@ form {
   border-radius: 0 5px 5px 0;
   cursor: pointer;
 }
+
+
+.app_zz{
+	width: 100%;
+	height: 100%;
+	background: #000000;
+	position: fixed;
+	filter:alpha(opacity=50);  /*支持 IE 浏览器*/
+	-moz-opacity:0.50; /*支持 FireFox 浏览器*/
+	opacity:0.50;  /*支持 Chrome, Opera, Safari 等浏览器*/
+	z-index: 100;
+}
+
+.app_login{
+	width: 80%;
+	height: 40rem;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -40%;
+	margin-top: -20rem;
+	z-index: 200;
+	background:#7030a0;
+}
+
+
+
+
+
