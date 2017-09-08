@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+.tongzhi_part1{
+	border-top: 1px solid #E0E0E0;
+}
+.tongzhi_part1 ul li{
+	width: 90%;
+	display: flex;
+	display: -webkit-flex;
+	margin: 3% auto;
+}
+.tongzhi_part1_l{
+	width: 10%;
+	text-align: right;
+	padding-top: 7%;
+}
+.tongzhi_part1_r{
+	width: 75%;
+	padding: 3%;
+	margin-left: 5%;
+	border: 1px solid #E0E0E0;
+}
+.tongzhi_part1_r h3{
+	font-size: 1rem;
+}
+.tongzhi_part1_r p{
+	font-size: 0.9rem;
+	margin-top: 2%;
+}

@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+.sign_part1{
+	border-top: 1px solid #E0E0E0;
+	border-bottom: 1px solid #E0E0E0;
+}
+.sign_circle_out{
+	width: 9.2rem;
+	height: 9.2rem;
+	border-radius: 50%;
+	border: 8px solid #f2f2f2;
+	text-align: center;
+}
+.sign_circle{
+	width: 9rem;
+	height: 9rem;
+	border-radius: 50%;
+	border: 1px dashed #8064a2;
+	text-align: center;
+}
+.sign_circle .sign_num{
+	margin-top: 35%;
+	font-size: 1.8rem;
+	color: #8064a2;
+}
+.sign_text{
+	text-align: center;
+	margin-top: 5%;
+}
+.sign_text span{
+	padding: 2% 15%;
+	background-color: #8064a2;
+	color: #FFFFFF;
+}
+.sign_part2 p{
+	font-size: 0.9rem;
+	margin-left: 5%;
+}

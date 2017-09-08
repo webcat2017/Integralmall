@@ -1,0 +1,90 @@
+@CHARSET "UTF-8";
+
+.list_jifen_jf_msg{
+	float: right;
+}
+.list_jifen_part_title{
+	font-size: 1rem;
+	padding: 3% 5%;
+	border-top: 1px solid #E0E0E0;
+	overflow: hidden;
+}
+.list_jifen_part_title img{
+	width: 20%;
+	display: inline-block;
+}
+.search_area{
+	border-top: 1px solid #E0E0E0;
+	border-bottom: 1px solid #E0E0E0;
+	padding: 3% 7%;
+}
+.search_input{
+	width: 80%;
+	height: 100%;
+}
+.search_btn{
+	width: 15%;
+	height: 100%;
+	background-image: url(../images/query.png);
+	background-size: 100%;
+}
+.list_jifen_item{
+	border-top: 1px solid #E0E0E0;
+}
+.list_jifen_item_date{
+	overflow: hidden;
+	font-size: 0.8rem;
+	padding: 3% 0;
+	border-bottom: 1px solid #E0E0E0;
+}
+.list_jifen_item_date .d_l{
+	float: left;
+	margin-left: 5%;
+}
+.list_jifen_item_date .d_r{
+	float: right;
+	margin-right: 5%;
+	color: #FF6700;
+}
+.list_jifen_part1_items_ul li{
+	overflow: hidden;
+	margin-top: 3%;
+	display: flex;
+	display: -webkit-flex;
+	margin-left: 5%;
+	border-bottom: 1px solid #E0E0E0;
+}
+.list_jifen_part1_items_ul li img{
+	width: 20%;
+	height: 100%;
+}
+.list_jifen_part1_items_ul .list_jifen_part1_items_title{
+	margin-left: 5%;
+	margin-top: 5%;
+	width: 100%;
+}
+.list_jifen_part1_items_title span{
+	float: right;
+	margin-right: 5%;
+	font-size: 0.8rem;
+}
+.list_jifen_part1_items_ul li h3{
+	font-size: 1rem;
+	color: #242424;
+}
+.list_jifen_part1_items_ul .list_jifen_part1_items_desc{
+	font-size: 0.9rem;
+	color: #666666;
+	padding: 2% 0;
+}
+.list_jifen_item_totel{
+	
+}
+.list_jifen_item_totel p{
+	text-align: right;
+	width: 95%;
+	font-size: 0.8rem;
+	padding: 3% 0;
+	color: #FF6700;
+}
+

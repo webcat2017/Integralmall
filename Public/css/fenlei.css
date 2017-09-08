@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+.fenlei_part1{
+	border-top: 1px solid #E0E0E0;
+}
+.fenlei_part1 ul{
+	width: 90%;
+	display: flex;
+	display: -webkit-flex;
+	flex-wrap: wrap;
+	-webkit-flex-wrap: wrap;
+	margin: 0 auto;
+	justify-content: center;
+}
+.fenlei_part1 ul li{
+	width: 18%;
+	text-align: center;
+	margin: 3%;
+}
+.fenlei_part1 ul li p{
+	margin-top: 4%;
+	font-size: 0.8rem;
+}

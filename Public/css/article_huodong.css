@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+.article_huodong_part1{
+	border-top: 1px solid #E0E0E0;
+}
+.article_huodong_part_title{
+	text-align: center;
+	margin-top: 3%;
+	font-size: 1.2rem;
+}
+.article_desc{
+	text-align: center;
+	margin-top: 3%;
+	font-size: 0.9rem;
+	color: #7F7F7F
+}
+.article_desc span{
+	margin: 0 3%;
+}
+.article_content p{
+	text-indent: 1.5rem;
+	margin-top: 2%;
+	font-size: 0.9rem;
+}
