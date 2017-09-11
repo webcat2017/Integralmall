@@ -40,6 +40,12 @@
         <li><a href="add.html" target="right"><span class="icon-caret-right"></span>活动添加</a></li>
         <li><a href="cate.html" target="right"><span class="icon-caret-right"></span>活动管理</a></li>
     </ul>
+    <h2><span class="icon-pencil-square-o"></span>消息管理</h2>
+    <ul>
+        <li><a href="add.html" target="right"><span class="icon-caret-right"></span>消息发布</a></li>
+        <li><a href="add.html" target="right"><span class="icon-caret-right"></span>管理员消息</a></li>
+        <li><a href="cate.html" target="right"><span class="icon-caret-right"></span>系统消息</a></li>
+    </ul>
 </div>
 <script type="text/javascript">
     $(function(){
