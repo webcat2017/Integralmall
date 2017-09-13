@@ -26,11 +26,11 @@
     </ul>
     <h2><span class="icon-pencil-square-o"></span>商品管理</h2>
     <ul>
-        <li><a href="list.html" target="right"><span class="icon-caret-right"></span>商品分类</a></li>
-        <li><a href="add.html" target="right"><span class="icon-caret-right"></span>商品添加</a></li>
-        <li><a href="cate.html" target="right"><span class="icon-caret-right"></span>商品管理</a></li>
+        <li><a href="/manager/index.php/Home/Buy/index" target="right"><span class="icon-caret-right"></span>商品分类</a></li>
+        <li><a href="/manager/index.php/Home/Buy/contadd" target="right"><span class="icon-caret-right"></span>商品添加</a></li>
+        <li><a href="/manager/index.php/Home/Buy/cont" target="right"><span class="icon-caret-right"></span>商品管理</a></li>
     </ul>
-    <h2><span class="icon-pencil-square-o"></span>商品领取</h2>
+    <h2><span class="icon-pencil-square-o"></span>商品兑换</h2>
     <ul>
         <li><a href="add.html" target="right"><span class="icon-caret-right"></span>未领取商品</a></li>
         <li><a href="cate.html" target="right"><span class="icon-caret-right"></span>已领取商品</a></li>
